@@ -1,0 +1,13 @@
+============================== common data==============================
+url=https://www.facebook.com/pages/create/?ref_type=registration_form
+browser=chrome
+name=rajkumar
+age=35
+============================ register page data===========================
+firstname=sanjeev
+lastname=kumar
+
+
+=========================== register page repo============================
+email_xpath=email
+password_xpath=pass
